@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9ed550-981a-48cc-a671-d72a2c1bb50a" name="Changes" comment="App.py Added">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Movie_Recommendation_System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Movie_Recommendation_System.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Movie.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Similarity.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Similarity.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
